@@ -46,6 +46,3 @@ New-ItemProperty -Path $registryPath -Name $name -Value $value -PropertyType DWO
 Write-Output "Registry setting applied successfully."
 ```
 
-## ⚠️ Disclaimer
-
-Use at your own risk. Modifying the registry can impact system behavior. Always create a backup or system restore point before applying changes.
