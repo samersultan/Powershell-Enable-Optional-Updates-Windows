@@ -12,9 +12,6 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\WindowsUpdate\UX\Settings
 
 It sets the `IsContinuousInnovationOptedIn` DWORD value to `1`, which opts the system into receiving the latest updates as soon as they're available.
 
-## 📄 Original Source
-
-Based on a `.reg` tweak created by [Shawn Brink](https://www.elevenforum.com/t/enable-or-disable-get-latest-updates-as-soon-as-available-in-windows-11.13821/).
 
 ## 📋 Prerequisites
 
